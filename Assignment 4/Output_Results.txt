@@ -1,0 +1,132 @@
+Sun Apr 28 20:25:03 CDT 2019
+    388     388    4090
+1
+a2ps
+a2ps.cfg
+a2ps-site.cfg
+abrt
+acpi
+adjtime
+akonadi
+aliases
+aliases.db
+Sun Apr 28 20:25:32 CDT 2019
+total 90
+-rwx--x--x+ 1 hhp160130 sn 16048 Apr 28 18:30 a4Client1
+-rw-------+ 1 hhp160130 sn  3183 Apr 28 20:13 a4Client1.cpp
+-rwx--x--x+ 1 hhp160130 sn 20296 Apr 28 20:04 a4Client2
+-rw-------+ 1 hhp160130 sn  3477 Apr 28 20:15 a4Client2.cpp
+-rwx--x--x+ 1 hhp160130 sn 14464 Apr 28 18:39 a4Server1
+-rw-------+ 1 hhp160130 sn  2494 Apr 28 20:09 a4Server1.cpp
+-rwx--x--x+ 1 hhp160130 sn 14464 Apr 28 19:56 a4Server2
+-rw-------+ 1 hhp160130 sn  2322 Apr 28 20:14 a4Server2.cpp
+-rw-------+ 1 hhp160130 sn   128 Apr 28 20:25 Client1Log.txt
+-rw-------+ 1 hhp160130 sn    29 Apr 28 20:25 Client2Log.txt
+-rw-------+ 1 hhp160130 sn    37 Apr 28 19:58 Command1.txt
+-rw-------+ 1 hhp160130 sn    24 Apr 28 19:59 Command2.txt
+-rw-------+ 1 hhp160130 sn    37 Apr 28 18:24 Command.txt
+-rw-------+ 1 hhp160130 sn   157 Apr 28 20:25 Output_Results.txt
+-rw-------+ 1 hhp160130 sn   128 Apr 28 18:25 ResultFile1.txt
+     15      15     199
+Sun Apr 28 20:26:20 CDT 2019
+    388     388    4090
+1
+a2ps
+a2ps.cfg
+a2ps-site.cfg
+abrt
+acpi
+adjtime
+akonadi
+aliases
+aliases.db
+Sun Apr 28 20:26:31 CDT 2019
+    388     388    4090
+1
+a2ps
+a2ps.cfg
+a2ps-site.cfg
+abrt
+acpi
+adjtime
+akonadi
+aliases
+aliases.db
+Sun Apr 28 20:26:54 CDT 2019
+    388     388    4090
+1
+a2ps
+a2ps.cfg
+a2ps-site.cfg
+abrt
+acpi
+adjtime
+akonadi
+aliases
+aliases.db
+Sun Apr 28 20:27:22 CDT 2019
+    388     388    4090
+1
+a2ps
+a2ps.cfg
+a2ps-site.cfg
+abrt
+acpi
+adjtime
+akonadi
+aliases
+aliases.db
+Sun Apr 28 20:28:12 CDT 2019
+    388     388    4090
+1
+a2ps
+a2ps.cfg
+a2ps-site.cfg
+abrt
+acpi
+adjtime
+akonadi
+aliases
+aliases.db
+Sun Apr 28 20:28:22 CDT 2019
+    388     388    4090
+1
+a2ps
+a2ps.cfg
+a2ps-site.cfg
+abrt
+acpi
+adjtime
+akonadi
+aliases
+aliases.db
+Sun Apr 28 20:29:12 CDT 2019
+    388     388    4090
+1
+a2ps
+a2ps.cfg
+a2ps-site.cfg
+abrt
+acpi
+adjtime
+akonadi
+aliases
+aliases.db
+Sun Apr 28 20:31:09 CDT 2019
+total 91
+-rwx--x--x+ 1 hhp160130 sn 16048 Apr 28 18:30 a4Client1
+-rw-------+ 1 hhp160130 sn  3183 Apr 28 20:13 a4Client1.cpp
+-rwx--x--x+ 1 hhp160130 sn 20296 Apr 28 20:04 a4Client2
+-rw-------+ 1 hhp160130 sn  3477 Apr 28 20:15 a4Client2.cpp
+-rwx--x--x+ 1 hhp160130 sn 14464 Apr 28 18:39 a4Server1
+-rw-------+ 1 hhp160130 sn  2494 Apr 28 20:09 a4Server1.cpp
+-rwx--x--x+ 1 hhp160130 sn 14464 Apr 28 19:56 a4Server2
+-rw-------+ 1 hhp160130 sn  2322 Apr 28 20:14 a4Server2.cpp
+-rw-------+ 1 hhp160130 sn   128 Apr 28 20:25 Client1Log.txt
+-rw-------+ 1 hhp160130 sn    29 Apr 28 20:31 Client2Log.txt
+-rw-------+ 1 hhp160130 sn    37 Apr 28 19:58 Command1.txt
+-rw-------+ 1 hhp160130 sn    24 Apr 28 19:59 Command2.txt
+-rw-------+ 1 hhp160130 sn    37 Apr 28 18:24 Command.txt
+-rw-------+ 1 hhp160130 sn  2004 Apr 28 20:31 Output_Results.txt
+-rw-------+ 1 hhp160130 sn   128 Apr 28 18:25 ResultFile1.txt
+     15      15     199

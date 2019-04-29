@@ -1,0 +1,2 @@
+a4Server1: a4Server1.cpp
+	g++ -lpthread a4Server1.cpp -o a4Server1

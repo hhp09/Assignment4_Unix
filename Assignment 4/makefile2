@@ -1,0 +1,3 @@
+a4Client1: a4Client1.cpp
+	g++ a4Client1.cpp -o a4Client1
+
